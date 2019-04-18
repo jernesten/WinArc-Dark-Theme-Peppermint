@@ -5098,3 +5098,7 @@ calendar.raven-calendar {
     opacity: 1; }
   .budgie-run-dialog scrolledwindow {
     border-top: 1px solid #2b2e39; }
+
+#pulseaudio-button * {
+    -gtk-icon-transform: scale(.6);
+}
